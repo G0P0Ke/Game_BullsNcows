@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bulls_n_cows/1.0.0": {
+        "runtime": {
+          "Bulls_n_cows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bulls_n_cows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

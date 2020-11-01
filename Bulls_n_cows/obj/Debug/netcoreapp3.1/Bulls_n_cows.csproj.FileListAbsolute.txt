@@ -1,0 +1,12 @@
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/bin/Debug/netcoreapp3.1/Bulls_n_cows.deps.json
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/bin/Debug/netcoreapp3.1/Bulls_n_cows.runtimeconfig.json
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/bin/Debug/netcoreapp3.1/Bulls_n_cows.runtimeconfig.dev.json
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/bin/Debug/netcoreapp3.1/Bulls_n_cows.dll
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/bin/Debug/netcoreapp3.1/Bulls_n_cows.pdb
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/obj/Debug/netcoreapp3.1/Bulls_n_cows.csprojAssemblyReference.cache
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/obj/Debug/netcoreapp3.1/Bulls_n_cows.AssemblyInfoInputs.cache
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/obj/Debug/netcoreapp3.1/Bulls_n_cows.AssemblyInfo.cs
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/obj/Debug/netcoreapp3.1/Bulls_n_cows.csproj.CoreCompileInputs.cache
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/obj/Debug/netcoreapp3.1/Bulls_n_cows.dll
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/obj/Debug/netcoreapp3.1/Bulls_n_cows.pdb
+/Users/antonandreev/RiderProjects/Bulls_n_cows/Bulls_n_cows/obj/Debug/netcoreapp3.1/Bulls_n_cows.genruntimeconfig.cache
